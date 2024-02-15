@@ -1,0 +1,251 @@
+html{
+ 
+}
+.art{
+	display : flex;
+	align-items : center;
+	background-color :  #046BF9;
+}
+.collegeLogoHere img{
+	margin-top : -4px;
+	height : 70px;
+	border-radius : 70px;
+	margin-right : 2px;
+	box-shadow : 5px 5px 5px black;
+
+}
+marquee{
+	margin-top : 5px;
+	background-color : #046BF9;
+	color : white;
+}
+.logoLogin{
+	float : right;
+}
+
+.menu img{
+	border-radius : 30px;
+	height : 30px;
+	float : right;
+	padding :10px;
+	margin-top : -14px;
+	padding : 10px;
+}
+.menu{
+	width: calc(100% - 50px);
+	height : 30px;
+	background-color : #046BF9;
+	font-size : 20px;
+	padding : 20px;
+}
+.menu a{
+	display : inline-block;
+	width : 16%;
+	text-align : center;
+	color : white;
+	text-decoration : none;
+	align-items: center;
+        justify-content: center;
+}
+.menu a:hover{
+	color : black;
+}
+
+
+.CampusUpdates h1{
+	text-align : center;
+	padding : 10px;
+	color : white;
+	background-color : red;
+	width : 40%;
+	margin: auto;
+}
+.CampusUpdates{
+	padding-top : 10px;
+	background-color :#AEB6BF;
+	border-radius : 10px;
+	padding-bottom : 10px;
+}
+.Images{
+	width : 100%;
+	margin : 20px auto;
+}
+.Images img:hover{
+	box-shadow : 5px 5px 10px black;
+}
+.CampusUpdates img{
+	width : 20%;
+	border-radius : 10px;
+	padding : 2%;
+}
+.Scroll p{
+	
+}
+.Scroll p{
+	padding-top : 160px;
+	text-align : center;
+	vertical-align : middle;
+	width : 50%;
+	color : white;
+	font-size : 20px;
+}
+.Scroll img{
+	width : 50%;
+}
+.Scroll{
+	display : flex;
+	background-color : red;
+
+}	
+#h22{
+	width : 30%;
+	border: 2px solid #438AE7;
+	padding : 15px;
+	font-size : 40px;
+	text-align : center;
+	margin : 10px auto;
+	border-radius : 10px;
+}
+#h22 a{
+	text-decoration : none;
+	color : #438AE7;
+}
+#h22:hover{
+	box-shadow : 5px 5px #438AE7;
+}
+
+.foot{
+	padding : 10px;
+	background-color:#046BF9;
+}
+.foot a{
+	display : inline-block;
+	color : white;
+	width : 24%;
+	text-align : center;
+}
+.logos{
+	background-color : white;
+}
+figure{
+	width : 19.5%;
+	margin : 0px;
+	display : inline-block;
+	margin : 20px auto;
+}
+.logos img{
+	border-radius : 40px;
+	display: block;
+        margin: 0 auto;
+}
+
+.fb img:hover{
+	box-shadow : 2px 2px 20px #1877F2;
+}
+.fb figcaption{
+	color : #1877F2;
+	padding : 4px;
+	text-align : center;
+}
+
+.insta img{
+	border-radius : 8px;
+}
+.insta img:hover{
+	border-radius : 8px;
+	box-shadow : 2px 2px 20px RGB(214,41,118);
+}
+.insta figcaption{
+	color : RGB(214,41,118);
+	padding : 5px;
+	text-align : center;
+}
+
+.x img:hover{
+	box-shadow : 2px 2px 20px black;
+}
+.x figcaption{
+	color : black;
+	padding : 5px;
+	text-align : center;
+}
+
+.li img:hover{
+	box-shadow : 2px 2px 20px #0077b5;
+}
+.li figcaption{
+	color : #0077b5;
+	padding : 5px;
+	text-align : center;
+}
+
+.yt img:hover{
+	box-shadow : 2px 2px 20px #FF0000;
+}
+.yt figcaption{
+	color : #FF0000;
+	padding : 5px;
+	text-align : center;
+}
+
+.Comments{
+	border : 80%;
+	margin : auto;
+	padding : 20px;
+	width : 80%;
+}
+.Comments h3{
+	color : #66B5EB;
+	width : 80%;
+	margin-left : 3%;
+	font-size : 22px;
+	font-style : serif;
+}
+.Comments article{
+	background-color : #F8FAFC;
+	margin-bottom : 10px;
+	padding : 25px;
+	border-radius : 8px;
+	border : 1px blue solid;
+	width : 25%;
+	display : inline-block;
+	width : 25%;
+	margin : 10px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
